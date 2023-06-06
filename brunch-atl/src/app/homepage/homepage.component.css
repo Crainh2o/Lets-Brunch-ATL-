@@ -4,3 +4,12 @@
     color: black;
     padding: 0 2.4rem;
 }
+.card-title {
+    font-size: 2vw;
+    white-space: nowrap;
+    font-weight: bold;
+    text-shadow: var(--text-dropshadow);
+}
+.card-text {
+    font-size: 1vw;
+}
