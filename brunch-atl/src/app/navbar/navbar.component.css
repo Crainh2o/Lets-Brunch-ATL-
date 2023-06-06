@@ -1,0 +1,13 @@
+.navbar {
+    height: 10vh;
+    background-color: var(--primary-color) !important;
+  }
+  
+  .nav-item {
+    font-size: 2.4rem;
+  }
+  
+  .form-control {
+    width: 20rem;
+    height: 3.2rem;
+  }
