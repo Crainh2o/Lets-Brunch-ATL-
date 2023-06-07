@@ -40,3 +40,20 @@
         Having the best breakfast in Atlanta and the best team of people who support the business model of Good Food & Company makes us the premier spot in Mid-Town. The leadership team of Good Food & Company brings a broad and diverse set of experience and talents. Our team is united by love, loyalty, and dedication to food and the hospitality industry.
     </div>
   </div>
+
+  <div *ngFor="let place of brunchPlaces"><div class="card" style="width: 18rem;"> 
+    <img src="{{place.img}}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{place.name}}</h5>
+      <p class="card-text">{{place.desciption}}</p>
+      <a href="{{place.menu}}" class="btn btn-primary">Go to Menu</a>
+    </div>
+</div>
+    <div class="card">
+        <div class="card-body"> {{place.card}}
+        </div>
+      </div>
+  </div>
+
+ 
+  
