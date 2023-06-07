@@ -29,9 +29,9 @@ export class HomepageComponent implements OnInit {
   constructor(private apiService: ApiService) {}
   ngOnInit(): void {
     this.apiService.getAllPlaces().subscribe((data: any) => {
-      for(let x = 0; x < 3; x++) {
+      for(let x = 0; x < 3; x++) { console.log(data[x])
         this.brunchPlaces[x].name = data[x].name;
-        this.brunchPlaces[x].menu = data[x].menu.menu_URL;
+        this.brunchPlaces[x].menu = data[x].menu.menu_URL; console.log(this.brunchPlaces)
       }
     })
   }
