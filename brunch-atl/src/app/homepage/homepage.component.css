@@ -3,6 +3,8 @@
     box-shadow: none;
     color: black;
     padding: 0 2.4rem;
+    display: flex;
+    flex-direction: column;
 }
 .card-title {
     font-size: 1.5vw;
@@ -10,6 +12,24 @@
     font-weight: bold;
     text-shadow: var(--text-dropshadow);
 }
+.card {
+    min-width: 20rem;
+}
 .card-text {
     font-size: 1vw;
+}
+.card-body {
+    margin: 0 auto;
+    max-width: 20rem;
+}
+.restaurants {
+    display: flex;
+}
+.reviews {
+    background-color: antiquewhite;
+    min-width: 30rem;
+    border-radius: 15px;
+}
+.container {
+    margin: 0 auto;
 }

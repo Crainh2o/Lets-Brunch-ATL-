@@ -1,16 +1,19 @@
-  <div *ngFor="let place of brunchPlaces"><div class="card" style="width: 18rem;"> 
-    <img src="{{place.img}}" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">{{place.name}}</h5>
-      <p class="card-text">{{place.desciption}}</p>
-      <a href="{{place.menu}}" class="btn btn-primary">Go to Menu</a>
-    </div>
-</div>
-    <div class="card">
-        <div class="card-body"> {{place.card}}
-        </div>
+<div class="container">
+  <div *ngFor="let place of brunchPlaces" class="restaurants">
+    <div class="card" style="width: 18rem;">
+     <img src="{{place.img}}" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{place.title}}</h5>
+        <p class="card-text">{{place.desciption}}</p>
+        <button routerLink="/menu/{{place?.id}}" class="btn btn-primary">Go to Menu</button>
       </div>
+    </div>
+    <div class="card">
+      <div class="card-body"> {{place.card}}
+      </div>
+    </div>
+    <div *ngFor="let review of place.reviews" class=" card reviews">
+      <h3>{{review.title}}</h3>
+      <div>{{review.description}}</div>
+    </div>
   </div>
-
- 
-  
