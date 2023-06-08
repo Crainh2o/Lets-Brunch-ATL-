@@ -18,8 +18,12 @@ export class HomepageComponent implements OnInit {
       card: "Sundays at the all-new Blue Martini are redefining the brunch experience in Atlanta.  Join us every Sunday for our amazing brunch menu, bottomless mimosas, and food specials presented by Grammy-winning producer DJ BabeyDrew. Guest DJs & Musicians will be on the patio spinning the hottest tunes.",
       reviews: [
         {
-          title: "review title",
-          description: "I love the restaurant."
+          title: "Top Tier",
+          description: "I love the restaurant.-John Doe"
+        },
+        {
+          title: "Big Energy",
+          description: "Super clean and the ENERGY is flawless Def a must see if in town”-Jane Doe"
         }
       ]
 
@@ -33,7 +37,11 @@ export class HomepageComponent implements OnInit {
       reviews: [
         {
           title: "The Food",
-          description: "The food was excellent, the service was even better."
+          description: "The food was excellent, the service was even better.-Jasmine Smith"
+        },
+        {
+          title: "Vibes",
+          description: "The next closest thing is the vibe and the service which is top notch.-Capri River's "
         }
       ]
     },
@@ -48,6 +56,11 @@ export class HomepageComponent implements OnInit {
         {
           title: "The DJ",
           description: "The DJ had everyone up and dancing. The drinks tasted great."
+        },
+        {
+          title: "",
+          description: "Great place to visit great atmosphere great food great service great owner.-Clair Rainwater "
+
         }
       ]
     },
@@ -68,7 +81,6 @@ export class HomepageComponent implements OnInit {
       })
     })
   }
-goToMenuPage() {
-  
+
 }
-}
+

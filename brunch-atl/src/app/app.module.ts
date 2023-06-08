@@ -10,6 +10,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { MenuComponent } from './menu/menu.component';
 import { ReviewsComponent } from './reviews/reviews.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { PlaceComponent } from './place/place.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { CarouselComponent } from './carousel/carousel.component';
     NavbarComponent,
     MenuComponent,
     ReviewsComponent,
-    CarouselComponent
+    CarouselComponent,
+    PlaceComponent
   ],
   imports: [
     BrowserModule,
