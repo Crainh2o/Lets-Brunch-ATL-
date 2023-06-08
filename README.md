@@ -34,5 +34,6 @@ The hurdles I faced were getting the go to menu button actually working and goin
 # Credits
 
 Thank you to Kevin and Max for all the help. Their github link is below.
+
 Max: https://github.com/maklaut007
 Kevin: https://github.com/dayjyun
