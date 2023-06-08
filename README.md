@@ -20,7 +20,10 @@ I tried my best to stay with the wireframe that I came up with in my Google Slid
 ![Screenshot 2023-06-08 at 5 12 29 PM](https://github.com/Crainh2o/Lets-Brunch-ATL-/assets/124539081/b03e09bd-95df-4694-b12e-6d0aa9ce3312)
 
 # Backend API GitHub Repo
+Here is both my front-end and back-end repo links. 
+![Screenshot 2023-06-08 at 5 16 54 PM](https://github.com/Crainh2o/Lets-Brunch-ATL-/assets/124539081/f24a3961-1be2-4b4c-bfd1-7da9a60bc1f1)
 
 # General Approach
+
 
 # Hurdles and Wins
