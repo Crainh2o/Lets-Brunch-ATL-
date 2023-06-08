@@ -28,3 +28,9 @@ The approach I took for the project was to do a project that I would enjoy. I lo
 
 
 # Hurdles and Wins
+
+The hurdles I faced were getting the go to menu button actually working and going to the menu. I had it working at first and when I started coding more the button didn't work anymore. If you click the button it will go to the different brunch id's but it doesn't go to the menu for the brunch place. A win is completin this project. I'm a beginnner software enginner, never coded in my life until I started this cohert with Gerneral Assembly. I have came a long way and looking forward to gaining more knowledge. 
+
+# Credits
+
+Thank you to Kevin and Max for all the help.
