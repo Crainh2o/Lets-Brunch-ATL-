@@ -16,6 +16,9 @@ I didn't use any dependencies for the front-end.
 
 # Planning Documentation
 
+I tried my best to stay with the wireframe that I came up with in my Google Slides. I used Google Slides as part of my planning process. 
+![Screenshot 2023-06-08 at 5 12 29 PM](https://github.com/Crainh2o/Lets-Brunch-ATL-/assets/124539081/b03e09bd-95df-4694-b12e-6d0aa9ce3312)
+
 # Backend API GitHub Repo
 
 # General Approach
