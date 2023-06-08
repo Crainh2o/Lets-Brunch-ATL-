@@ -24,5 +24,7 @@ Here is both my front-end and back-end repo links.
 
 # General Approach
 
+The approach I took for the project was to do a project that I would enjoy. I love brunch and I love posting about the different brunch places I go to. I chose my top three becasue I wanted to keep my project simple with the KISS and DRY principals.  
+
 
 # Hurdles and Wins
