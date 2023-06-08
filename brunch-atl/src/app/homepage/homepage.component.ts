@@ -23,7 +23,7 @@ export class HomepageComponent implements OnInit {
         },
         {
           title: "Big Energy",
-          description: "Super clean and the ENERGY is flawless Def a must see if in town”-Jane Doe"
+          description: "Super clean and the ENERGY is flawless Def a must see if in town-Jane Doe"
         }
       ]
 

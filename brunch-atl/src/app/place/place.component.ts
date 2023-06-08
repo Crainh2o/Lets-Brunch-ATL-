@@ -12,7 +12,9 @@ export class PlaceComponent implements OnInit {
   constructor(private apiService: ApiService, private router: ActivatedRoute){}
   ngOnInit(): void {
     this.router.paramMap.subscribe((params: any)=>{
-      this.apiService.getPlaceById(params.params.id).subscribe
+      this.apiService.getPlaceById(params.params.id).subscribe((data:any)=> {
+        this.place = data;
+      })
     })
   }
 
