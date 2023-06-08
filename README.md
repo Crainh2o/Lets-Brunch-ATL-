@@ -12,6 +12,8 @@ With me being a wife and mom of two, brunch is great way for me to hang out with
 
 # Dependencies
 
+I didn't use any dependencies for the front-end.
+
 # Planning Documentation
 
 # Backend API GitHub Repo
