@@ -1,6 +1,6 @@
 # Lets-Brunch-ATL-
 
-This is the front end of my project Lets-Brunch-Atl-API-. My project is about my top three brunch restaurants in Atlanta. Brunch is right after breakfast but before lunch. That's how you have Brunch. 
+This is the front end of my project Lets-Brunch-Atl-. My project is about my top three brunch restaurants in Atlanta. Brunch is right after breakfast but before lunch. That's how you have Brunch. 
 With me being a wife and mom of two, brunch is great way for me to hang out with my friends and be home before the afternoon.
 
 # Tools and Technologies
